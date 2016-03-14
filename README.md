@@ -4,4 +4,4 @@ This userscript lets you page through the slides of an InfoQ presentation withou
 
 ## Install
 
-Use "Tampermonkey":https://tampermonkey.net/ or your favorite userscript implementation to install. 
+Use [Tampermonkey](https://tampermonkey.net/) or your favorite userscript implementation to install. 
