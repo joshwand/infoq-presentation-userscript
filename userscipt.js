@@ -3,7 +3,7 @@
 // @description    adds buttons to navigate slides on infoq presentations
 // @version        1.1
 // @namespace      com.joshwand
-// @include        http://www.infoq.com/presentations/*
+// @include        */www.infoq.com/presentations/*
 // ==/UserScript==
 
 // credit to http://userscripts.org/scripts/show/36826 back in 2008
